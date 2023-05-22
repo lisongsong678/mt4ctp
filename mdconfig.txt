@@ -1,0 +1,8 @@
+KlineSize=1500
+OptionMdEnable=1
+FutureTickLocal=1
+OptionTickLocal=0
+FutureMarginQry=0
+FutureComisionQry=0
+FutureOrderQry=0
+HypMode=0

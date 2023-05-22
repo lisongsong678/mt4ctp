@@ -1,0 +1,5 @@
+EsinterMarket=01,rb2310$hc2310
+FedSwing=02,AP310$p2309
+meanswing=03,zn2306P20000
+ruggierobond=04,ru2309C13000$cu2308P63000
+SledgeHammer=05,SA401$FG309
