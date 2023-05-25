@@ -1,5 +1,5 @@
 KlineSize=1500
-OptionMdEnable=1
+OptionMdEnable=0
 FutureTickLocal=1
 OptionTickLocal=0
 FutureMarginQry=0
