@@ -1,9 +1,0 @@
-KlineSize=1500
-OptionMdEnable=1
-OptionProductId=TAC,TAP,i_o,rb_o
-FutureTickLocal=1
-OptionTickLocal=1
-FutureMarginQry=0
-FutureComisionQry=0
-FutureOrderQry=0
-HypMode=0
